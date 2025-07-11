@@ -7,7 +7,8 @@ en recomendaciones y generos de pelicula
 
 ## Herramientas
 Para este proyecto se utilizaron las siguientes herramientas y librerias
-Python
+-Python
+
 -Pandas
 -Numpy
 -Matplotlib
