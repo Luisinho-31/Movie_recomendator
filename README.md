@@ -15,7 +15,7 @@ Python
 -Sklearn
 -Kaggle
 
-## fuente de datos:
+## Fuente de datos:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Objetivo:
