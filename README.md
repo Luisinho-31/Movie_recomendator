@@ -7,17 +7,22 @@ en recomendaciones y generos de pelicula
 
 ## Herramientas
 Para este proyecto se utilizaron las siguientes herramientas y librerias
--Python
+- Python 
+- Pandas
+- Numpy
+- Matplotlib
+- Google Colab
+- Sklearn
+- Kaggle
 
--Pandas
--Numpy
--Matplotlib
--Google 
--Sklearn
--Kaggle
 
 ## Fuente de datos:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+## Dataset
+Se tiene dos datasets que contienen 5000 elementos cada uno, creditos y peliculas con su informacion relevante.
+se realizó una union de tablas donde se unió por medio del id de la pelicula
+
 
 ## Objetivo:
 
