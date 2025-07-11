@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 El objetivo de este pryecto es realizar un modelo para recomendar peliculas similares 
 a quella que buscas tomando caracteristicas similares, entre recomendacion y generos 
 
-## Procesp
+## Proceso
 El proyecto se realizó en un colab de google, los primero pasos fue hacer una unión
 entre dos datasets que se tenian, donde la llave de relación es el id de la pelicula, 
 se realizó una exploración de datos revisando si existen valores nulos o ceros en aquellas
